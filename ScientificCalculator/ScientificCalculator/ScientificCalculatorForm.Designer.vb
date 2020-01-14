@@ -1,4 +1,4 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
+<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Calculator
     Inherits System.Windows.Forms.Form
 
@@ -81,9 +81,10 @@ Partial Class Calculator
         Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button1.Font = New System.Drawing.Font("Segoe UI Semibold", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button1.Location = New System.Drawing.Point(8, 160)
+        Me.Button1.Location = New System.Drawing.Point(12, 246)
+        Me.Button1.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(70, 34)
+        Me.Button1.Size = New System.Drawing.Size(105, 52)
         Me.Button1.TabIndex = 0
         Me.Button1.Text = " DEG"
         Me.Button1.UseVisualStyleBackColor = False
@@ -95,9 +96,10 @@ Partial Class Calculator
         Me.Button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button3.Font = New System.Drawing.Font("Segoe UI Semibold", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button3.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button3.Location = New System.Drawing.Point(160, 160)
+        Me.Button3.Location = New System.Drawing.Point(240, 246)
+        Me.Button3.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(70, 34)
+        Me.Button3.Size = New System.Drawing.Size(105, 52)
         Me.Button3.TabIndex = 0
         Me.Button3.Text = " F-E"
         Me.Button3.UseVisualStyleBackColor = False
@@ -109,9 +111,10 @@ Partial Class Calculator
         Me.Button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button7.Font = New System.Drawing.Font("Segoe UI Semibold", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button7.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button7.Location = New System.Drawing.Point(387, 200)
+        Me.Button7.Location = New System.Drawing.Point(580, 308)
+        Me.Button7.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button7.Name = "Button7"
-        Me.Button7.Size = New System.Drawing.Size(70, 34)
+        Me.Button7.Size = New System.Drawing.Size(105, 52)
         Me.Button7.TabIndex = 1
         Me.Button7.Text = "M▾"
         Me.Button7.UseVisualStyleBackColor = False
@@ -123,9 +126,10 @@ Partial Class Calculator
         Me.Button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button8.Font = New System.Drawing.Font("Segoe UI Semibold", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button8.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button8.Location = New System.Drawing.Point(236, 200)
+        Me.Button8.Location = New System.Drawing.Point(354, 308)
+        Me.Button8.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button8.Name = "Button8"
-        Me.Button8.Size = New System.Drawing.Size(70, 34)
+        Me.Button8.Size = New System.Drawing.Size(105, 52)
         Me.Button8.TabIndex = 2
         Me.Button8.Text = "M-"
         Me.Button8.UseVisualStyleBackColor = False
@@ -137,9 +141,10 @@ Partial Class Calculator
         Me.Button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button9.Font = New System.Drawing.Font("Segoe UI Semibold", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button9.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button9.Location = New System.Drawing.Point(312, 200)
+        Me.Button9.Location = New System.Drawing.Point(468, 308)
+        Me.Button9.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button9.Name = "Button9"
-        Me.Button9.Size = New System.Drawing.Size(70, 34)
+        Me.Button9.Size = New System.Drawing.Size(105, 52)
         Me.Button9.TabIndex = 3
         Me.Button9.Text = " MS"
         Me.Button9.UseVisualStyleBackColor = False
@@ -151,9 +156,10 @@ Partial Class Calculator
         Me.Button10.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button10.Font = New System.Drawing.Font("Segoe UI Semibold", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button10.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button10.Location = New System.Drawing.Point(160, 200)
+        Me.Button10.Location = New System.Drawing.Point(240, 308)
+        Me.Button10.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button10.Name = "Button10"
-        Me.Button10.Size = New System.Drawing.Size(70, 34)
+        Me.Button10.Size = New System.Drawing.Size(105, 52)
         Me.Button10.TabIndex = 4
         Me.Button10.Text = " M+"
         Me.Button10.UseVisualStyleBackColor = False
@@ -165,9 +171,10 @@ Partial Class Calculator
         Me.Button11.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button11.Font = New System.Drawing.Font("Segoe UI Semibold", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button11.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button11.Location = New System.Drawing.Point(84, 200)
+        Me.Button11.Location = New System.Drawing.Point(126, 308)
+        Me.Button11.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button11.Name = "Button11"
-        Me.Button11.Size = New System.Drawing.Size(70, 34)
+        Me.Button11.Size = New System.Drawing.Size(105, 52)
         Me.Button11.TabIndex = 5
         Me.Button11.Text = " MR"
         Me.Button11.UseVisualStyleBackColor = False
@@ -179,9 +186,10 @@ Partial Class Calculator
         Me.Button12.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button12.Font = New System.Drawing.Font("Segoe UI Semibold", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button12.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button12.Location = New System.Drawing.Point(8, 200)
+        Me.Button12.Location = New System.Drawing.Point(12, 308)
+        Me.Button12.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button12.Name = "Button12"
-        Me.Button12.Size = New System.Drawing.Size(70, 34)
+        Me.Button12.Size = New System.Drawing.Size(105, 52)
         Me.Button12.TabIndex = 6
         Me.Button12.Text = " MC"
         Me.Button12.UseVisualStyleBackColor = False
@@ -192,9 +200,10 @@ Partial Class Calculator
         Me.Button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button4.ForeColor = System.Drawing.Color.Transparent
         Me.Button4.Image = CType(resources.GetObject("Button4.Image"), System.Drawing.Image)
-        Me.Button4.Location = New System.Drawing.Point(8, 9)
+        Me.Button4.Location = New System.Drawing.Point(12, 14)
+        Me.Button4.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(40, 40)
+        Me.Button4.Size = New System.Drawing.Size(60, 62)
         Me.Button4.TabIndex = 7
         Me.Button4.UseVisualStyleBackColor = True
         '
@@ -204,9 +213,10 @@ Partial Class Calculator
         Me.Button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button5.ForeColor = System.Drawing.SystemColors.ButtonFace
         Me.Button5.Image = CType(resources.GetObject("Button5.Image"), System.Drawing.Image)
-        Me.Button5.Location = New System.Drawing.Point(417, 8)
+        Me.Button5.Location = New System.Drawing.Point(626, 12)
+        Me.Button5.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button5.Name = "Button5"
-        Me.Button5.Size = New System.Drawing.Size(40, 40)
+        Me.Button5.Size = New System.Drawing.Size(60, 62)
         Me.Button5.TabIndex = 8
         Me.Button5.UseVisualStyleBackColor = True
         '
@@ -215,9 +225,10 @@ Partial Class Calculator
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.ForeColor = System.Drawing.Color.Black
-        Me.Label1.Location = New System.Drawing.Point(54, 10)
+        Me.Label1.Location = New System.Drawing.Point(81, 15)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(96, 30)
+        Me.Label1.Size = New System.Drawing.Size(147, 45)
         Me.Label1.TabIndex = 9
         Me.Label1.Text = "Scientific"
         '
@@ -226,9 +237,10 @@ Partial Class Calculator
         Me.Label2.Anchor = System.Windows.Forms.AnchorStyles.Right
         Me.Label2.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.ForeColor = System.Drawing.SystemColors.ControlDarkDark
-        Me.Label2.Location = New System.Drawing.Point(13, 57)
+        Me.Label2.Location = New System.Drawing.Point(20, 88)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(417, 23)
+        Me.Label2.Size = New System.Drawing.Size(643, 35)
         Me.Label2.TabIndex = 10
         Me.Label2.Text = "0"
         Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleRight
@@ -241,10 +253,11 @@ Partial Class Calculator
         Me.TextBox1.Enabled = False
         Me.TextBox1.Font = New System.Drawing.Font("Segoe UI Semibold", 32.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox1.ForeColor = System.Drawing.Color.Black
-        Me.TextBox1.Location = New System.Drawing.Point(17, 83)
+        Me.TextBox1.Location = New System.Drawing.Point(26, 128)
+        Me.TextBox1.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.TextBox1.Multiline = True
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(441, 64)
+        Me.TextBox1.Size = New System.Drawing.Size(662, 98)
         Me.TextBox1.TabIndex = 11
         Me.TextBox1.Text = "0"
         Me.TextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
@@ -256,9 +269,10 @@ Partial Class Calculator
         Me.Button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button6.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button6.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button6.Location = New System.Drawing.Point(8, 240)
+        Me.Button6.Location = New System.Drawing.Point(12, 369)
+        Me.Button6.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button6.Name = "Button6"
-        Me.Button6.Size = New System.Drawing.Size(85, 44)
+        Me.Button6.Size = New System.Drawing.Size(128, 68)
         Me.Button6.TabIndex = 6
         Me.Button6.Text = "x²"
         Me.Button6.UseVisualStyleBackColor = False
@@ -270,9 +284,10 @@ Partial Class Calculator
         Me.Button13.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button13.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button13.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button13.Location = New System.Drawing.Point(99, 240)
+        Me.Button13.Location = New System.Drawing.Point(148, 369)
+        Me.Button13.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button13.Name = "Button13"
-        Me.Button13.Size = New System.Drawing.Size(85, 44)
+        Me.Button13.Size = New System.Drawing.Size(128, 68)
         Me.Button13.TabIndex = 6
         Me.Button13.Text = "xʸ"
         Me.Button13.UseVisualStyleBackColor = False
@@ -284,11 +299,12 @@ Partial Class Calculator
         Me.Button14.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button14.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button14.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button14.Location = New System.Drawing.Point(190, 240)
+        Me.Button14.Location = New System.Drawing.Point(285, 369)
+        Me.Button14.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button14.Name = "Button14"
-        Me.Button14.Size = New System.Drawing.Size(85, 44)
+        Me.Button14.Size = New System.Drawing.Size(128, 68)
         Me.Button14.TabIndex = 6
-        Me.Button14.Text = " sinh"
+        Me.Button14.Text = " sin"
         Me.Button14.UseVisualStyleBackColor = False
         '
         'Button17
@@ -298,9 +314,10 @@ Partial Class Calculator
         Me.Button17.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button17.Font = New System.Drawing.Font("Segoe UI Semibold", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button17.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button17.Location = New System.Drawing.Point(84, 160)
+        Me.Button17.Location = New System.Drawing.Point(126, 246)
+        Me.Button17.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button17.Name = "Button17"
-        Me.Button17.Size = New System.Drawing.Size(70, 34)
+        Me.Button17.Size = New System.Drawing.Size(105, 52)
         Me.Button17.TabIndex = 5
         Me.Button17.Text = " HYP"
         Me.Button17.UseVisualStyleBackColor = False
@@ -312,9 +329,10 @@ Partial Class Calculator
         Me.Button29.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button29.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button29.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button29.Location = New System.Drawing.Point(99, 390)
+        Me.Button29.Location = New System.Drawing.Point(148, 600)
+        Me.Button29.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button29.Name = "Button29"
-        Me.Button29.Size = New System.Drawing.Size(85, 44)
+        Me.Button29.Size = New System.Drawing.Size(128, 68)
         Me.Button29.TabIndex = 6
         Me.Button29.Text = "7"
         Me.Button29.UseVisualStyleBackColor = False
@@ -326,11 +344,12 @@ Partial Class Calculator
         Me.Button15.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button15.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button15.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button15.Location = New System.Drawing.Point(281, 239)
+        Me.Button15.Location = New System.Drawing.Point(422, 368)
+        Me.Button15.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button15.Name = "Button15"
-        Me.Button15.Size = New System.Drawing.Size(85, 44)
+        Me.Button15.Size = New System.Drawing.Size(128, 68)
         Me.Button15.TabIndex = 6
-        Me.Button15.Text = " cosh"
+        Me.Button15.Text = " cos"
         Me.Button15.UseVisualStyleBackColor = False
         '
         'Button16
@@ -340,11 +359,12 @@ Partial Class Calculator
         Me.Button16.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button16.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button16.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button16.Location = New System.Drawing.Point(372, 239)
+        Me.Button16.Location = New System.Drawing.Point(558, 368)
+        Me.Button16.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button16.Name = "Button16"
-        Me.Button16.Size = New System.Drawing.Size(85, 44)
+        Me.Button16.Size = New System.Drawing.Size(128, 68)
         Me.Button16.TabIndex = 6
-        Me.Button16.Text = "tanh"
+        Me.Button16.Text = "tan"
         Me.Button16.UseVisualStyleBackColor = False
         '
         'Button18
@@ -354,9 +374,10 @@ Partial Class Calculator
         Me.Button18.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button18.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button18.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button18.Location = New System.Drawing.Point(8, 290)
+        Me.Button18.Location = New System.Drawing.Point(12, 446)
+        Me.Button18.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button18.Name = "Button18"
-        Me.Button18.Size = New System.Drawing.Size(85, 44)
+        Me.Button18.Size = New System.Drawing.Size(128, 68)
         Me.Button18.TabIndex = 12
         Me.Button18.Text = "√"
         Me.Button18.UseVisualStyleBackColor = False
@@ -368,9 +389,10 @@ Partial Class Calculator
         Me.Button19.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button19.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button19.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button19.Location = New System.Drawing.Point(99, 290)
+        Me.Button19.Location = New System.Drawing.Point(148, 446)
+        Me.Button19.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button19.Name = "Button19"
-        Me.Button19.Size = New System.Drawing.Size(85, 44)
+        Me.Button19.Size = New System.Drawing.Size(128, 68)
         Me.Button19.TabIndex = 12
         Me.Button19.Text = "10ˣ"
         Me.Button19.UseVisualStyleBackColor = False
@@ -382,9 +404,10 @@ Partial Class Calculator
         Me.Button20.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button20.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button20.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button20.Location = New System.Drawing.Point(190, 290)
+        Me.Button20.Location = New System.Drawing.Point(285, 446)
+        Me.Button20.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button20.Name = "Button20"
-        Me.Button20.Size = New System.Drawing.Size(85, 44)
+        Me.Button20.Size = New System.Drawing.Size(128, 68)
         Me.Button20.TabIndex = 6
         Me.Button20.Text = "log"
         Me.Button20.UseVisualStyleBackColor = False
@@ -396,9 +419,10 @@ Partial Class Calculator
         Me.Button21.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button21.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button21.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button21.Location = New System.Drawing.Point(281, 289)
+        Me.Button21.Location = New System.Drawing.Point(422, 445)
+        Me.Button21.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button21.Name = "Button21"
-        Me.Button21.Size = New System.Drawing.Size(85, 44)
+        Me.Button21.Size = New System.Drawing.Size(128, 68)
         Me.Button21.TabIndex = 6
         Me.Button21.Text = "Exp"
         Me.Button21.UseVisualStyleBackColor = False
@@ -410,9 +434,10 @@ Partial Class Calculator
         Me.Button22.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button22.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button22.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button22.Location = New System.Drawing.Point(372, 289)
+        Me.Button22.Location = New System.Drawing.Point(558, 445)
+        Me.Button22.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button22.Name = "Button22"
-        Me.Button22.Size = New System.Drawing.Size(85, 44)
+        Me.Button22.Size = New System.Drawing.Size(128, 68)
         Me.Button22.TabIndex = 6
         Me.Button22.Text = "Mod"
         Me.Button22.UseVisualStyleBackColor = False
@@ -424,9 +449,10 @@ Partial Class Calculator
         Me.Button23.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button23.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button23.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button23.Location = New System.Drawing.Point(8, 340)
+        Me.Button23.Location = New System.Drawing.Point(12, 523)
+        Me.Button23.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button23.Name = "Button23"
-        Me.Button23.Size = New System.Drawing.Size(85, 44)
+        Me.Button23.Size = New System.Drawing.Size(128, 68)
         Me.Button23.TabIndex = 12
         Me.Button23.Text = "↑"
         Me.Button23.UseVisualStyleBackColor = False
@@ -438,9 +464,10 @@ Partial Class Calculator
         Me.Button24.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button24.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button24.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button24.Location = New System.Drawing.Point(99, 340)
+        Me.Button24.Location = New System.Drawing.Point(148, 523)
+        Me.Button24.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button24.Name = "Button24"
-        Me.Button24.Size = New System.Drawing.Size(85, 44)
+        Me.Button24.Size = New System.Drawing.Size(128, 68)
         Me.Button24.TabIndex = 12
         Me.Button24.Text = "CE"
         Me.Button24.UseVisualStyleBackColor = False
@@ -452,9 +479,10 @@ Partial Class Calculator
         Me.Button25.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button25.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button25.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button25.Location = New System.Drawing.Point(190, 340)
+        Me.Button25.Location = New System.Drawing.Point(285, 523)
+        Me.Button25.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button25.Name = "Button25"
-        Me.Button25.Size = New System.Drawing.Size(85, 44)
+        Me.Button25.Size = New System.Drawing.Size(128, 68)
         Me.Button25.TabIndex = 12
         Me.Button25.Text = "C"
         Me.Button25.UseVisualStyleBackColor = False
@@ -466,9 +494,10 @@ Partial Class Calculator
         Me.Button26.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button26.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button26.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button26.Location = New System.Drawing.Point(281, 340)
+        Me.Button26.Location = New System.Drawing.Point(422, 523)
+        Me.Button26.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button26.Name = "Button26"
-        Me.Button26.Size = New System.Drawing.Size(85, 44)
+        Me.Button26.Size = New System.Drawing.Size(128, 68)
         Me.Button26.TabIndex = 12
         Me.Button26.Text = "⌫"
         Me.Button26.UseVisualStyleBackColor = False
@@ -480,9 +509,10 @@ Partial Class Calculator
         Me.Button27.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button27.Font = New System.Drawing.Font("Segoe UI Light", 20.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button27.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button27.Location = New System.Drawing.Point(372, 340)
+        Me.Button27.Location = New System.Drawing.Point(558, 523)
+        Me.Button27.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button27.Name = "Button27"
-        Me.Button27.Size = New System.Drawing.Size(85, 44)
+        Me.Button27.Size = New System.Drawing.Size(128, 68)
         Me.Button27.TabIndex = 12
         Me.Button27.Text = " ÷"
         Me.Button27.UseVisualStyleBackColor = False
@@ -494,9 +524,10 @@ Partial Class Calculator
         Me.Button28.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button28.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button28.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button28.Location = New System.Drawing.Point(8, 390)
+        Me.Button28.Location = New System.Drawing.Point(12, 600)
+        Me.Button28.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button28.Name = "Button28"
-        Me.Button28.Size = New System.Drawing.Size(85, 44)
+        Me.Button28.Size = New System.Drawing.Size(128, 68)
         Me.Button28.TabIndex = 13
         Me.Button28.Text = "π"
         Me.Button28.UseVisualStyleBackColor = False
@@ -508,9 +539,10 @@ Partial Class Calculator
         Me.Button33.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button33.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button33.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button33.Location = New System.Drawing.Point(8, 440)
+        Me.Button33.Location = New System.Drawing.Point(12, 677)
+        Me.Button33.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button33.Name = "Button33"
-        Me.Button33.Size = New System.Drawing.Size(85, 44)
+        Me.Button33.Size = New System.Drawing.Size(128, 68)
         Me.Button33.TabIndex = 13
         Me.Button33.Text = "n!"
         Me.Button33.UseVisualStyleBackColor = False
@@ -522,9 +554,10 @@ Partial Class Calculator
         Me.Button38.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button38.Font = New System.Drawing.Font("Segoe UI Light", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button38.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button38.Location = New System.Drawing.Point(8, 490)
+        Me.Button38.Location = New System.Drawing.Point(12, 754)
+        Me.Button38.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button38.Name = "Button38"
-        Me.Button38.Size = New System.Drawing.Size(85, 44)
+        Me.Button38.Size = New System.Drawing.Size(128, 68)
         Me.Button38.TabIndex = 13
         Me.Button38.Text = "±"
         Me.Button38.UseVisualStyleBackColor = False
@@ -536,9 +569,10 @@ Partial Class Calculator
         Me.Button43.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button43.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button43.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button43.Location = New System.Drawing.Point(8, 540)
+        Me.Button43.Location = New System.Drawing.Point(12, 831)
+        Me.Button43.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button43.Name = "Button43"
-        Me.Button43.Size = New System.Drawing.Size(85, 44)
+        Me.Button43.Size = New System.Drawing.Size(128, 68)
         Me.Button43.TabIndex = 13
         Me.Button43.Text = "("
         Me.Button43.UseVisualStyleBackColor = False
@@ -550,9 +584,10 @@ Partial Class Calculator
         Me.Button44.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button44.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button44.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button44.Location = New System.Drawing.Point(99, 540)
+        Me.Button44.Location = New System.Drawing.Point(148, 831)
+        Me.Button44.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button44.Name = "Button44"
-        Me.Button44.Size = New System.Drawing.Size(85, 44)
+        Me.Button44.Size = New System.Drawing.Size(128, 68)
         Me.Button44.TabIndex = 13
         Me.Button44.Text = ")"
         Me.Button44.UseVisualStyleBackColor = False
@@ -564,9 +599,10 @@ Partial Class Calculator
         Me.Button32.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button32.Font = New System.Drawing.Font("Segoe UI Light", 20.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button32.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button32.Location = New System.Drawing.Point(372, 390)
+        Me.Button32.Location = New System.Drawing.Point(558, 600)
+        Me.Button32.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button32.Name = "Button32"
-        Me.Button32.Size = New System.Drawing.Size(85, 44)
+        Me.Button32.Size = New System.Drawing.Size(128, 68)
         Me.Button32.TabIndex = 12
         Me.Button32.Text = " ×"
         Me.Button32.UseVisualStyleBackColor = False
@@ -578,9 +614,10 @@ Partial Class Calculator
         Me.Button37.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button37.Font = New System.Drawing.Font("Segoe UI Light", 20.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button37.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button37.Location = New System.Drawing.Point(372, 440)
+        Me.Button37.Location = New System.Drawing.Point(558, 677)
+        Me.Button37.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button37.Name = "Button37"
-        Me.Button37.Size = New System.Drawing.Size(85, 44)
+        Me.Button37.Size = New System.Drawing.Size(128, 68)
         Me.Button37.TabIndex = 12
         Me.Button37.Text = " －"
         Me.Button37.UseVisualStyleBackColor = False
@@ -592,9 +629,10 @@ Partial Class Calculator
         Me.Button42.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button42.Font = New System.Drawing.Font("Segoe UI Light", 20.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button42.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button42.Location = New System.Drawing.Point(372, 490)
+        Me.Button42.Location = New System.Drawing.Point(558, 754)
+        Me.Button42.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button42.Name = "Button42"
-        Me.Button42.Size = New System.Drawing.Size(85, 44)
+        Me.Button42.Size = New System.Drawing.Size(128, 68)
         Me.Button42.TabIndex = 12
         Me.Button42.Text = " +"
         Me.Button42.UseVisualStyleBackColor = False
@@ -606,9 +644,10 @@ Partial Class Calculator
         Me.Button46.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button46.Font = New System.Drawing.Font("Segoe UI Light", 20.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button46.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button46.Location = New System.Drawing.Point(372, 540)
+        Me.Button46.Location = New System.Drawing.Point(558, 831)
+        Me.Button46.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button46.Name = "Button46"
-        Me.Button46.Size = New System.Drawing.Size(85, 44)
+        Me.Button46.Size = New System.Drawing.Size(128, 68)
         Me.Button46.TabIndex = 12
         Me.Button46.Text = " ="
         Me.Button46.UseVisualStyleBackColor = False
@@ -620,9 +659,10 @@ Partial Class Calculator
         Me.Button47.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button47.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button47.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button47.Location = New System.Drawing.Point(281, 540)
+        Me.Button47.Location = New System.Drawing.Point(422, 831)
+        Me.Button47.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button47.Name = "Button47"
-        Me.Button47.Size = New System.Drawing.Size(85, 44)
+        Me.Button47.Size = New System.Drawing.Size(128, 68)
         Me.Button47.TabIndex = 12
         Me.Button47.Text = " ."
         Me.Button47.UseVisualStyleBackColor = False
@@ -634,9 +674,10 @@ Partial Class Calculator
         Me.Button30.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button30.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button30.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button30.Location = New System.Drawing.Point(190, 390)
+        Me.Button30.Location = New System.Drawing.Point(285, 600)
+        Me.Button30.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button30.Name = "Button30"
-        Me.Button30.Size = New System.Drawing.Size(85, 44)
+        Me.Button30.Size = New System.Drawing.Size(128, 68)
         Me.Button30.TabIndex = 6
         Me.Button30.Text = "8"
         Me.Button30.UseVisualStyleBackColor = False
@@ -648,9 +689,10 @@ Partial Class Calculator
         Me.Button31.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button31.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button31.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button31.Location = New System.Drawing.Point(281, 390)
+        Me.Button31.Location = New System.Drawing.Point(422, 600)
+        Me.Button31.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button31.Name = "Button31"
-        Me.Button31.Size = New System.Drawing.Size(85, 44)
+        Me.Button31.Size = New System.Drawing.Size(128, 68)
         Me.Button31.TabIndex = 6
         Me.Button31.Text = "9"
         Me.Button31.UseVisualStyleBackColor = False
@@ -662,9 +704,10 @@ Partial Class Calculator
         Me.Button34.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button34.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button34.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button34.Location = New System.Drawing.Point(99, 440)
+        Me.Button34.Location = New System.Drawing.Point(148, 677)
+        Me.Button34.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button34.Name = "Button34"
-        Me.Button34.Size = New System.Drawing.Size(85, 44)
+        Me.Button34.Size = New System.Drawing.Size(128, 68)
         Me.Button34.TabIndex = 6
         Me.Button34.Text = "4"
         Me.Button34.UseVisualStyleBackColor = False
@@ -676,9 +719,10 @@ Partial Class Calculator
         Me.Button35.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button35.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button35.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button35.Location = New System.Drawing.Point(190, 440)
+        Me.Button35.Location = New System.Drawing.Point(285, 677)
+        Me.Button35.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button35.Name = "Button35"
-        Me.Button35.Size = New System.Drawing.Size(85, 44)
+        Me.Button35.Size = New System.Drawing.Size(128, 68)
         Me.Button35.TabIndex = 6
         Me.Button35.Text = "5"
         Me.Button35.UseVisualStyleBackColor = False
@@ -690,9 +734,10 @@ Partial Class Calculator
         Me.Button36.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button36.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button36.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button36.Location = New System.Drawing.Point(281, 440)
+        Me.Button36.Location = New System.Drawing.Point(422, 677)
+        Me.Button36.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button36.Name = "Button36"
-        Me.Button36.Size = New System.Drawing.Size(85, 44)
+        Me.Button36.Size = New System.Drawing.Size(128, 68)
         Me.Button36.TabIndex = 6
         Me.Button36.Text = "6"
         Me.Button36.UseVisualStyleBackColor = False
@@ -704,9 +749,10 @@ Partial Class Calculator
         Me.Button39.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button39.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button39.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button39.Location = New System.Drawing.Point(99, 490)
+        Me.Button39.Location = New System.Drawing.Point(148, 754)
+        Me.Button39.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button39.Name = "Button39"
-        Me.Button39.Size = New System.Drawing.Size(85, 44)
+        Me.Button39.Size = New System.Drawing.Size(128, 68)
         Me.Button39.TabIndex = 6
         Me.Button39.Text = "1"
         Me.Button39.UseVisualStyleBackColor = False
@@ -718,9 +764,10 @@ Partial Class Calculator
         Me.Button40.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button40.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button40.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button40.Location = New System.Drawing.Point(190, 490)
+        Me.Button40.Location = New System.Drawing.Point(285, 754)
+        Me.Button40.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button40.Name = "Button40"
-        Me.Button40.Size = New System.Drawing.Size(85, 44)
+        Me.Button40.Size = New System.Drawing.Size(128, 68)
         Me.Button40.TabIndex = 6
         Me.Button40.Text = "2"
         Me.Button40.UseVisualStyleBackColor = False
@@ -732,9 +779,10 @@ Partial Class Calculator
         Me.Button41.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button41.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button41.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button41.Location = New System.Drawing.Point(281, 490)
+        Me.Button41.Location = New System.Drawing.Point(422, 754)
+        Me.Button41.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button41.Name = "Button41"
-        Me.Button41.Size = New System.Drawing.Size(85, 44)
+        Me.Button41.Size = New System.Drawing.Size(128, 68)
         Me.Button41.TabIndex = 6
         Me.Button41.Text = "3"
         Me.Button41.UseVisualStyleBackColor = False
@@ -746,19 +794,20 @@ Partial Class Calculator
         Me.Button45.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button45.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button45.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button45.Location = New System.Drawing.Point(190, 540)
+        Me.Button45.Location = New System.Drawing.Point(285, 831)
+        Me.Button45.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button45.Name = "Button45"
-        Me.Button45.Size = New System.Drawing.Size(85, 44)
+        Me.Button45.Size = New System.Drawing.Size(128, 68)
         Me.Button45.TabIndex = 6
         Me.Button45.Text = "0"
         Me.Button45.UseVisualStyleBackColor = False
         '
         'Calculator
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ButtonFace
-        Me.ClientSize = New System.Drawing.Size(462, 592)
+        Me.ClientSize = New System.Drawing.Size(693, 911)
         Me.Controls.Add(Me.Button44)
         Me.Controls.Add(Me.Button43)
         Me.Controls.Add(Me.Button38)
@@ -809,6 +858,7 @@ Partial Class Calculator
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button1)
         Me.ForeColor = System.Drawing.Color.Transparent
+        Me.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Name = "Calculator"
         Me.ShowIcon = False
         Me.Text = " Calculator"
